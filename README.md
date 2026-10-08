@@ -45,8 +45,8 @@ Các mã còn thiếu hoặc placeholder trong nguồn phải được thay bằ
 
 ## Các bài có mã câu hỏi chưa hoàn chỉnh trong nguồn
 
-- [BÀI 3: Tổng Số Nguyên Tố](src/TCP/byte_stream/Bai03_TongSoNguyenTo.java)
-- [BÀI 3: Đảo Ngược Chuỗi](src/TCP/character_stream/Bai03_DaoNguocChuoi.java)
+- [BÀI 3: Tổng Số Nguyên Tố](src/TCP1/byte_stream/Bai03_TongSoNguyenTo.java)
+- [BÀI 3: Đảo Ngược Chuỗi](src/TCP1/character_stream/Bai03_DaoNguocChuoi.java)
 - [BÀI B10. LỌC KÝ TỰ + LOẠI TRÙNG (BÀI MỚI TỪ HỆ THỐNG)  [qCode: cập nhật sau]](src/UDP/string_type/Bai10_LocKyTuLoaiTrung.java)
 - [BÀI B11. MASK LOG + ĐẾM ERROR/INFO/WARN (BÀI MỚI TỪ HỆ THỐNG)  [qCode: cập nhật sau]](src/UDP/string_type/Bai11_MaskLogDemErrorInfoWarn.java)
 
