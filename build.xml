@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="LapTrinhMang_NetBeans" default="default" basedir=".">
+ <description>72 bai tap TCP va UDP, Java Ant / NetBeans.</description>
+ <import file="nbproject/build-impl.xml"/>
+</project>
